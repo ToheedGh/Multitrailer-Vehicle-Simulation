@@ -5,11 +5,12 @@ The code was generated using MATLAB R2019b, and works in this or higher versions
 MATLAB.
 
 Latest release: https://zenodo.org/badge/latestdoi/286326444
+DOI: 10.5281/zenodo.4248222
 
 Please cite this code directly and the following paper when referring to this code:
 T. Ghandriz, B. Jacobson, P. Nilsson, L. Laine, N. Fröjd, “Computationally efficient
 nonlinear one- and two-track models for multitrailer road vehicles,”
-IEEE Access, vol. -, pp. –, 2020. (refer to the journal to find the missing information.)
+IEEE Access, vol. -, pp. –, 2020 (Refer to the journal to find the missing information).
 
 Explanation of the vehicle model and equations can be found in the above paper. 
 
