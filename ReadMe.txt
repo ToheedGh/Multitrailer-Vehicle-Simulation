@@ -13,7 +13,7 @@ IEEE Access, vol. -, pp. –, 2020. (refer to the journal to find the missing in
 
 Explanation of the vehicle model and equations can be found in the above paper. 
 
-The first version (v1.0.0) of the code includes three MATLAB files:
+The latest release (v1.0.1) of the code includes three MATLAB files:
 
 generateEqs.m,
 parameters.m,
