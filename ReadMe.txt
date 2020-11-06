@@ -39,7 +39,7 @@ creates a simple animation These two files are
 valid for a single-track 4-unit 6-axle vehicle, and need to be updated by the user for 
 simulating a different vehicle.  
 
-In the version v1.0.0 of the code, a user has options to create a model including:
+In the version v1.0.1 of the code, a user has options to create a model including:
 - any number of vehicle units;
 - any number of axles in each vehicle unit;
 - a single-track vehicle or a two-track vehicle;
