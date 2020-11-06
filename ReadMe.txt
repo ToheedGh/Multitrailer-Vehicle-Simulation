@@ -4,6 +4,8 @@ multi-trailer vehicle, for simulation, optimization, and optimal control purpose
 The code was generated using MATLAB R2019b, and works in this or higher versions of 
 MATLAB.
 
+Latest release: https://zenodo.org/badge/latestdoi/286326444
+
 Please cite this code directly and the following paper when referring to this code:
 T. Ghandriz, B. Jacobson, P. Nilsson, L. Laine, N. Fröjd, “Computationally efficient
 nonlinear one- and two-track models for multitrailer road vehicles,”
